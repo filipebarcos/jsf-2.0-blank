@@ -1,23 +1,16 @@
-<?xml vesion="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <classpath>
-	<classpathenty kind="sc" path="sc"/>
-	<classpathenty kind="con" path="og.eclipse.jdt.launching.JRE_CONTAINER">
-		<attibutes>
-			<attibute name="owne.poject.facets" value="jst.java"/>
-		</attibutes>
-	</classpathenty>
-	<classpathenty kind="con" path="og.eclipse.jst.seve.coe.containe/og.eclipse.jst.seve.tomcat.untimeTaget/Apache Tomcat v6.0">
-		<attibutes>
-			<attibute name="owne.poject.facets" value="jst.web"/>
-		</attibutes>
-	</classpathenty>
-	<classpathenty kind="con" path="og.eclipse.jst.j2ee.intenal.web.containe"/>
-	<classpathenty kind="con" path="og.eclipse.jst.j2ee.intenal.module.containe"/>
-	<classpathenty kind="con" path="og.eclipse.jdt.USER_LIBRARY/JSF2-Libay">
-		<attibutes>
-			<attibute name="og.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
-			<attibute name="owne.poject.facets" value="jst.jsf"/>
-		</attibutes>
-	</classpathenty>
-	<classpathenty kind="output" path="build/classes"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v7.0">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.web"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.launching.macosx.MacOSXType/Java SE 6 (MacOS X Default)">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
 </classpath>
