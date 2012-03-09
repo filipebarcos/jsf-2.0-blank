@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project-modules id="moduleCoreId" project-version="1.5.0">
-    <wb-module deploy-name="jsf-blank">
+    <wb-module deploy-name="jsf-2.0-blank">
         <wb-resource deploy-path="/" source-path="/WebContent"/>
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
-        <property name="context-root" value="jsf-blank"/>
-        <property name="java-output-path" value="/jsf-blank/build/classes"/>
+        <property name="java-output-path" value="/jsf-2.0-blank/build/classes"/>
+        <property name="context-root" value="jsf-2.0-blank"/>
     </wb-module>
 </project-modules>
